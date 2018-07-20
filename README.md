@@ -15,6 +15,7 @@ It returns a color based on the cell value, allowing you to set the cell backgro
 * It relies on OpenCV (cross-platform visual library) to generate the Gaussian colormap
 * Quick drop-in-your-project : only two files (.cpp and .h)
 * Save the Gaussian colormap to a path you set
+* Excel 64bit and 32bit supported
 
 
 Installing
