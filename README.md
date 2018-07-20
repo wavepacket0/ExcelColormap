@@ -3,7 +3,7 @@ ExcelColormap
 
 Excel C++ dll plugin able to create colormaps from an array of scalar data.
 
-![](examples/pixel.png)
+[![Deaths of the third international](/images/pixels.png)](/images/gaussian.png)
 
 What exactly?
 =============
