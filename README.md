@@ -3,6 +3,8 @@ ExcelColormap
 
 Excel C++ dll plugin able to create colormaps from an array of scalar data.
 
+[![Examples](examples/pixel.png?raw=true)](examples/gaussian.png?raw=true)
+
 What exactly?
 =============
 This is a simple dll library, cross-platform (it does not use any MS-only code, plain C++),
